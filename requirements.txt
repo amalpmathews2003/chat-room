@@ -1,2 +1,2 @@
 thread6
-socket
+sockets
